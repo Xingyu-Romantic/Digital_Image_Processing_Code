@@ -24,3 +24,4 @@
 ## 4. Experiment In Class
 
 * [Experiment 1. Basic operation and operation of image](./Experiment_Course/1.py)
+* [Experiment 2. Image Smoothing and Sharpening](./Experiment_Course/2.py)

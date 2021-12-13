@@ -25,3 +25,6 @@
 
 * [Experiment 1. Basic operation and operation of image](./Experiment_Course/1.py)
 * [Experiment 2. Image Smoothing and Sharpening](./Experiment_Course/2.py)
+* [Experiment 3. Fourier transform, discrete cosine transform and Hough transform of image](./Experiment_Course/3.py)
+* [Experiment 4. Image Segmentation](./Experiment_Course/4.py)
+* 
